@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outreach Messenger"
+  short_description: "Thoughtful direct outreach in Max's voice"
+  default_prompt: "Use $outreach-messenger to turn this context into a direct outreach message in my voice, adapted to the recipient and channel."
