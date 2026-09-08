@@ -19,9 +19,3 @@ The default output is one finished message and a subject when appropriate. Sendi
 ## Install in Codex
 
 Ask Codex to install the skill from this private repository using the skill-installer. The skill is at the repository root; use `outreach-messenger` as the installation name. GitHub access to this repository is required.
-
-## Origin
-
-Adapted from [Job Poster Outreach](https://github.com/MaxLaurieHutchinson/job-poster-outreach), preserving its voice, recipient-specific reasoning, evidence integrity and humanity pass. Follows the compact, self-contained packaging and editorial intent of [Medium Author](https://github.com/MaxLaurieHutchinson/medium-author).
-
-The scope now covers direct outreach beyond hiring. Proof, structure and the ask adapt to the purpose rather than forcing every message into an application narrative. The source repositories are provenance, not runtime dependencies.
