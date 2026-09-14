@@ -14,8 +14,10 @@ Invoke `$outreach-messenger` with the recipient, reason for writing and any avai
 
 > Use $outreach-messenger to revise this follow-up in my voice. Keep it short and preserve the context of the original exchange.
 
+> Use $outreach-messenger for this job outreach. Look for a truthful story arc that explains why this role reconnects earlier and current parts of my work. Keep the history specific, but include only details that strengthen the reason for contact.
+
 The default output is one finished message and a subject when appropriate. Sending is a separate, explicitly requested action.
 
 ## Install in Codex
 
-Ask Codex to install the skill from this private repository using the skill-installer. The skill is at the repository root; use `outreach-messenger` as the installation name. GitHub access to this repository is required.
+Ask Codex to install the skill from this repository using the skill-installer. The skill is at the repository root; use `outreach-messenger` as the installation name. GitHub access to this repository is required.

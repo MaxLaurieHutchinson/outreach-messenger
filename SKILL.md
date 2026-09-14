@@ -39,6 +39,32 @@ Retrieve supplied links through available sources when their contents are needed
 
 A useful default is to establish the reason for contact, name the observation or shared context, explain the genuine connection, add relevant support and close with the simplest useful next step. Treat this as a shape, not a template. Combine, reorder or omit parts when the message becomes stronger that way.
 
+## Use a story arc when it explains the fit
+
+For job and opportunity outreach, check whether the opportunity reconnects two or more real parts of the sender's background. When that connection is genuinely useful, prefer a compact narrative over a qualification summary.
+
+Build the arc from evidence:
+
+1. Start with one concrete earlier chapter that matters to the opportunity.
+2. Move through the work that shaped the sender's current capability.
+3. Name the recent work, interest or question that brings the earlier domain back into view.
+4. Explain why this specific role, company, person or problem is where those threads meet now.
+
+Keep the chronology causal rather than comprehensive. Each paragraph should earn the next. Use only details that help explain why this outreach exists.
+
+Use an underdog angle only when it is true. State a nontraditional fit plainly, then show why the combination may be useful. Do not apologise, ask for sympathy, exaggerate hardship or inflate adjacent experience into domain expertise.
+
+Translate evidence into the recipient's end goal rather than listing technologies, projects or qualifications. Describe the system, outcome or problem the sender has been working toward. Use the recipient's vocabulary only where the sender's evidence genuinely supports it.
+
+Before using this shape, check internally:
+
+- Is there a real "started here, went elsewhere, now these threads meet" story?
+- Does the story explain why this recipient or role matters now?
+- Are direct experience, adjacent experience, research, prototypes and production work distinguished accurately?
+- Does every biographical detail earn its place by strengthening the reason for contact?
+
+If no genuine arc exists, use the normal message shape. Never manufacture a return-to-roots story, a lifelong passion or a domain identity from weak evidence.
+
 Adapt to the purpose:
 
 - **Introductions and networking:** make the reason for this particular connection clear. Shared interests need substance; they do not need a miniature biography.
@@ -77,5 +103,7 @@ Revise weaknesses before returning. Keep these checks internal unless analysis i
 Return one ready-to-use message, with a subject when appropriate. Do not append strategy, scoring, explanations or alternatives unless requested. When the user asks for multiple messages or variants, provide them in the requested format. Save files only when requested or when the surrounding task calls for them.
 
 Never invent experiences, outcomes, quotations, shared history or destinations. Preserve distinctions such as led, contributed, advised, prototyped and explored. Verify an included link's exact destination, relevance and accessibility to the recipient; omit it if verification fails. Do not disclose private source material merely because it helped shape the message. If missing evidence makes the requested message impossible to write truthfully, ask a focused question instead of returning a fabricated draft.
+
+Do not surface rejection history, personal hardship or other vulnerable context merely to make a story feel more emotional. Include it only when the user explicitly wants it or it is materially necessary to the purpose of the message.
 
 Drafting does not authorise sending, contacting someone, submitting an application or making commitments. Take those external actions only when the user explicitly requests them, within that request's scope.
